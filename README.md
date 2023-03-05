@@ -8,18 +8,6 @@ Create a react application that displays mathematics questions. One question is 
 
 
 
-Project is in master branch.
-
-
-
-
-
-
-
-
-
-
-
 
 
 1st install the project using npm install.
